@@ -1,0 +1,51 @@
+{
+  "name": "Student Notification System",
+  "short_name": "SNS",
+  "description": "Get the information you need, when you need it, with our student notification system.",
+  "lang": "en-US",
+  "start_url": "./",
+  "scope": "./",
+  "theme_color": "#181c25",
+  "background_color": "#181c25",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "edge_side_panel": {},
+  "icons": [
+    
+    {
+      "src": "img/icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "img/image1.png",
+      "sizes": "1280x720",
+      "platform": "wide",
+      "label": "SNS"
+    },
+    {
+      "src": "img/image2.png",
+      "sizes": "1280x720",
+      "platform": "wide",
+      "label": "Never Miss a College Event!"
+    },
+    {
+      "src": "img/image3.png",
+      "sizes": "1280x720",
+      "label": "Maximize your Learning Potential Here!"
+    },
+    {
+      "src": "img/image4.png",
+      "sizes": "1280x720",
+      "label": "Stay Informed! Stay Ahead Here!!"
+    },
+    {
+      "src": "img/image5.png",
+      "sizes": "1280x720",
+      "label": "Unlock Your Academic Potential Here!"
+    }
+  ]
+}
